@@ -1,3 +1,4 @@
+/*Title and Navbar styles*/
 h5
 {
     text-align: center;
@@ -7,14 +8,29 @@ h5
     font-weight: 700;
 }
 
+
 .navbar-fixed .nav-wrapper .brand-logo img
 {
     height: 64px;
     width: 64px;
 }
 
+/*About me page styling*/
+p 
+{
+    color: #00695c;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    text-align: left;
+
+
+}
+
 .col img
 {
-    height: 350px;
-    width: 500px;
+    height: 400px;
+    width: 550px;
 }
+
+
